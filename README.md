@@ -1,5 +1,5 @@
 # Server-Setup-Walkthrough
-Customer Setup Walkthrough for quick reference
+Custom Setup Walkthrough for quick reference
 
 
 # Install LAMP Stack 
